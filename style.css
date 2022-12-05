@@ -1,9 +1,21 @@
+
 body {
-<head>
-  
-  <link rel="stylesheet" href="style.css">
-  <link rel="icon" type="image/x-icon" href="https://static.wikia.nocookie.net/hellokitty/images/c/c2/Sanrio_Characters_Pochacco_Image005.png/revision/latest?cb=20170406171435">
-   </head>
-  
-  <title> Juliet's Site </title> 
+  background-color: crimson;
 }
+
+h1 {
+  color: white;
+    text-align: center;
+}
+
+img {
+  width: 120vh;
+  border: dashed gold 3px;
+}
+
+img:hover {
+  width: 130ox;
+  border: solid black 3px;
+}
+ 
+

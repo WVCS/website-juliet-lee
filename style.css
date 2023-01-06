@@ -33,10 +33,10 @@ h1 {
 
 img {
   width: 120vh;
-  border: dashed gold 3px;
+  border: solid black 3px;
 }
 
 img:hover {
   width: 130ox;
-  border: solid black 3px;
+  border: dashed gold 3px;
 }

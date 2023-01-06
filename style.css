@@ -2,7 +2,7 @@ body { background-image:url('https://thumbs.gfycat.com/AbandonedGrimKagu-size_re
 
 nav {
   list-style-type: none;
-  background-color: brown;
+  background-color: black;
   width: 100%;
   position: fixed;
   top: 0;
@@ -21,7 +21,7 @@ a{
 }
 
 li:hover{
-  background-color: salmon;
+  background-color: #485665;
 }
 
 body {

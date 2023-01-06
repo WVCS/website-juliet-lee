@@ -24,3 +24,7 @@ h1 {
   color: white;
     text-align: center;
 }
+
+li:hover{
+  background-color: #485665;
+}

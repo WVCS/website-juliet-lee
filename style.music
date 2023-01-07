@@ -1,4 +1,4 @@
-body { background-image:url('https://media.tenor.com/cEBZRTNxiHcAAAAd/newji-new-jeans.gif'); background-repeat:repeat; }
+body { background-image:url('https://media.tenor.com/cEBZRTNxiHcAAAAd/newji-new-jeans.gif');}
 nav {
   list-style-type: none;
   background-color: black;
@@ -24,8 +24,11 @@ h1 {
   color: white;
     text-align: center;
     position: fixed;
-     bottom: 0;
+     top: 10;
   left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+padding: 20px;
 }
 
 li:hover{
